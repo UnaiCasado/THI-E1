@@ -1,0 +1,75 @@
+body {
+	background-color: lightblue;
+
+}
+
+/* Index */
+
+h1 {
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: Comic Sans MS;
+	text-align: center;
+}
+
+h3 {
+	font-family: Comic Sans MS;
+	font-size: 20px;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+#imagenUnai {
+	width: 10%;
+	height: 10%;
+	transform: rotate(-0.5deg);
+	border: 4px solid black;
+	margin: auto;
+	display: block;
+}
+
+aside {
+	text-align: center;
+
+}
+
+a {
+	color: black;
+}
+
+#video1 {
+	width: 200px;
+	height: 300px;
+	margin: auto;
+	display: block;
+	border: 4px solid black;
+
+}
+
+#Articulo1 {
+	width: 20%;
+	height: 20%;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size: 15px;
+	line-height: 25px;
+}
+
+fieldset {
+	border: 3px solid black;
+	
+}
+
+legend {
+	font-weight: bold;
+}
